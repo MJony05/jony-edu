@@ -1,5 +1,5 @@
 import { FunctionComponent } from 'react';
-import Footer from './header/footer/footer';
+import Footer from './footer/footer';
 import Header from './header/header';
 import { LayoutProps } from './layout.props';
 import Sidebar from './sidebar/sidebar';
@@ -7,7 +7,6 @@ import styles from './layout.module.css';
 import { AppContextProvider, IAppContext } from '../context/app.cotext';
 import { ScrollUp } from '../components';
 import { useRouter } from 'next/router';
-
 const Layout = ({ children }: LayoutProps): JSX.Element => {
   return (
     <div className={styles.wrapper}>
