@@ -14,7 +14,7 @@ const HomePageComponent = () => {
       <div className={styles.hero}>
         <div className={styles.heroTitle}>
           <Heading tag="h1">
-            Lern New Skills Online With Sammi <span>Academy</span>
+            Lern New Skills Online With Jony <span>Academy</span>
           </Heading>
           <Text>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil nulla
