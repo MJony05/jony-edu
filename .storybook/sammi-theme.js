@@ -2,8 +2,8 @@ import { create } from '@storybook/theming';
 
 export default create({
   base: 'light',
-  brandTitle: 'Sammi',
-  brandUrl: 'https://sammi.ac',
+  brandTitle: 'Jony',
+  brandUrl: 'https://jonibekmunirov.uz',
   brandImage: 'https://media.graphassets.com/LmYlYJQtThqYJg60tsYY',
   brandTarget: '_blank',
 });
